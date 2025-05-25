@@ -215,7 +215,7 @@ function initializePageContent() {
     }
 
     // 设置页面标题
-    document.title = currentVideoTitle + ' - 荐片影视';
+    document.title = currentVideoTitle + '免费在线观看 - 荐片影视';
     document.getElementById('videoTitle').textContent = currentVideoTitle;
 
     // 初始化播放器
