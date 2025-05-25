@@ -12,9 +12,9 @@ const PASSWORD_CONFIG = {
 
 // 网站信息配置
 const SITE_CONFIG = {
-    name: '荐片电影网',
-    url: 'https://tv.jianpian.site',
-    description: '免费在线视频搜索与观看平台',
+    name: '荐片影视',
+    url: 'https://jianpiantv.vercel.app/',
+    description: '2025免费高清电影网！',
     logo: 'image/logo.png',
     version: '1.0.3'
 };
