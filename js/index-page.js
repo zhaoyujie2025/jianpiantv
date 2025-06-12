@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', function() {
             try {
                 window.history.replaceState(
                     { search: searchQuery }, 
-                    `搜索: ${searchQuery} - LibreTV`, 
+                    `搜索: ${searchQuery} - 荐片影视`, 
                     `/s=${encodeURIComponent(searchQuery)}`
                 );
             } catch (e) {
